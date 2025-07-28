@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - Terjemahan Pertuturan AI untuk Mesyuarat Online"
+  },
+  "extensionDescription": {
+    "message": "Terjemahan pertuturan segera berkuasa AI untuk semua mesyuarat video. Hancurkan halangan bahasa dengan terjemahan suara masa nyata."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Laman Web yang Disokong"
+  },
+  "openSokuji": {
+    "message": "Buka Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Kedai Web Chrome"
+  },
+  "edgeAddons": {
+    "message": "Tambahan Edge"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji tersedia di $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Klik \"Buka Sokuji\" di bawah untuk memulakan terjemahan masa nyata."
+  },
+  "quickStart": {
+    "message": "Mula Pantas:"
+  },
+  "quickStartInstructions": {
+    "message": "Konfigurasikan kunci API OpenAI anda ← Pilih \"Sokuji_Virtual_Mic\" sebagai mikrofon ← Mula bercakap!"
+  },
+  "notSupported": {
+    "message": "⚠ Tidak disokong di laman web ini"
+  },
+  "currentlyOn": {
+    "message": "Kini di $HOSTNAME$. Sokuji berfungsi di platform ini:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Perlukan sokongan untuk lebih banyak laman web?"
+  },
+  "contactUs": {
+    "message": "Hubungi kami di"
+  },
+  "contributeCode": {
+    "message": "menyumbang kepada"
+  },
+  "openSourceProject": {
+    "message": "projek sumber terbuka kami"
+  },
+  "unableToDetect": {
+    "message": "⚠ Tidak dapat mengesan laman web semasa"
+  },
+  "refreshAndTry": {
+    "message": "Sila muat semula halaman dan cuba lagi."
+  },
+  "needMoreSitesShort": {
+    "message": "Perlukan lebih banyak laman?"
+  },
+  "contactUsShort": {
+    "message": "Hubungi kami"
+  },
+  "contributeCodeShort": {
+    "message": "sumbang kod"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Untuk menggunakan Sokuji, pilih <strong>\"Sokuji Virtual Microphone\"</strong> dalam tetapan mikrofon anda."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Untuk menggunakan Sokuji, sila pilih <strong>\"Sokuji Virtual Microphone\"</strong> dalam tetapan mikrofon anda dan <strong>lumpuhkan pengurangan bunyi</strong> untuk prestasi yang lebih baik."
+  },
+  "gotIt": {
+    "message": "Faham"
+  },
+  "remindLater": {
+    "message": "Ingatkan kemudian"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Untuk menggunakan Sokuji, sila pilih \"Sokuji Virtual Microphone\" dalam tetapan mikrofon anda."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "Untuk menggunakan Sokuji, sila pilih <strong>\"Sokuji Virtual Microphone\"</strong> dalam tetapan mikrofon anda dan <strong>lumpuhkan Penindasan bunyi</strong> dalam tetapan suara Discord untuk prestasi yang lebih baik."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "Untuk menggunakan Sokuji dalam Slack Huddles, sila <strong>mulakan Huddle</strong>, kemudian pilih <strong>\"Sokuji Virtual Microphone\"</strong> dalam tetapan Video dan Mic anda, dan <strong>nyahaktifkan Penekanan Bunyi</strong> dalam pilihan Audio dan Video untuk prestasi yang lebih baik."
+  },
+  "showMoreSites": {
+    "message": "Show $COUNT$ more sites",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Show less sites"
+  }
+}

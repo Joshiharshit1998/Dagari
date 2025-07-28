@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI 驅動的線上會議即時語音翻譯"
+  },
+  "extensionDescription": {
+    "message": "AI 驅動的即時語音翻譯，適用於所有視訊會議。透過即時語音翻譯打破語言障礙。"
+  },
+  "popupTitle": {
+    "message": "Sokuji - 支援的網站"
+  },
+  "openSokuji": {
+    "message": "開啟 Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Chrome 線上應用程式商店"
+  },
+  "edgeAddons": {
+    "message": "Edge 附加元件"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji 在 $SITE_NAME$ 上可用！",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "點擊下方的「開啟 Sokuji」開始即時翻譯。"
+  },
+  "quickStart": {
+    "message": "快速開始："
+  },
+  "quickStartInstructions": {
+    "message": "設定您的 API 金鑰（OpenAI 或 Gemini）→ 選擇「Sokuji_Virtual_Mic」作為麥克風 → 開始說話！"
+  },
+  "notSupported": {
+    "message": "⚠ 此網站不支援"
+  },
+  "currentlyOn": {
+    "message": "目前在 $HOSTNAME$。Sokuji 支援這些平台：",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "需要支援更多網站？"
+  },
+  "contactUs": {
+    "message": "聯絡我們："
+  },
+  "contributeCode": {
+    "message": "為我們的"
+  },
+  "openSourceProject": {
+    "message": "開源專案貢獻程式碼"
+  },
+  "unableToDetect": {
+    "message": "⚠ 無法偵測目前網站"
+  },
+  "refreshAndTry": {
+    "message": "請重新整理頁面後重試。"
+  },
+  "needMoreSitesShort": {
+    "message": "需要更多網站？"
+  },
+  "contactUsShort": {
+    "message": "聯絡我們"
+  },
+  "contributeCodeShort": {
+    "message": "貢獻程式碼"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "要使用 Sokuji，請在您的麥克風設定中選擇 <strong>\"Sokuji Virtual Microphone\"</strong>。"
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "要使用 Sokuji，請在麥克風設置中選擇<strong>\"Sokuji Virtual Microphone\"</strong>，並<strong>關閉噪聲抑制</strong>以獲得更好的性能。"
+  },
+  "gotIt": {
+    "message": "我知道了"
+  },
+  "remindLater": {
+    "message": "稍後提醒"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "要使用 Sokuji，請在麥克風設定中選擇「Sokuji Virtual Microphone」。"
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "要使用 Sokuji，請在麥克風設定中選擇<strong>「Sokuji Virtual Microphone」</strong>，並在 Discord 的語音設定中<strong>關閉噪音抑制</strong>以獲得更好的效能。"
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "要在 Slack Huddles 中使用 Sokuji，請<strong>開始一個 Huddle</strong>，然後在視訊和麥克風設定中選擇<strong>\"Sokuji Virtual Microphone\"</strong>，並在音訊和視訊偏好設定中<strong>關閉噪音抑制</strong>以獲得更好的效能。"
+  },
+  "showMoreSites": {
+    "message": "顯示更多 $COUNT$ 個網站",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "顯示較少網站"
+  }
+}

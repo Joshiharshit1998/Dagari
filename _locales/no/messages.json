@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI-drevet Live Taleoversettelse for Nettmøter"
+  },
+  "extensionDescription": {
+    "message": "AI-drevet øyeblikkelig taleoversettelse for alle videomøter. Bryt språkbarrierer med sanntids stemmeoversettelse."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Støttede Nettsteder"
+  },
+  "openSokuji": {
+    "message": "Åpne Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Chrome Nettbutikk"
+  },
+  "edgeAddons": {
+    "message": "Edge-tillegg"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji er tilgjengelig på $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Klikk \"Åpne Sokuji\" nedenfor for å starte sanntidsoversettelse."
+  },
+  "quickStart": {
+    "message": "Hurtigstart:"
+  },
+  "quickStartInstructions": {
+    "message": "Konfigurer din API-nøkkel (OpenAI eller Gemini) → Velg \"Sokuji_Virtual_Mic\" som mikrofon → Begynn å snakke!"
+  },
+  "notSupported": {
+    "message": "⚠ Ikke støttet på dette nettstedet"
+  },
+  "currentlyOn": {
+    "message": "For øyeblikket på $HOSTNAME$. Sokuji fungerer på disse plattformene:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Trenger du støtte for flere nettsteder?"
+  },
+  "contactUs": {
+    "message": "Kontakt oss på"
+  },
+  "contributeCode": {
+    "message": "bidra til vårt"
+  },
+  "openSourceProject": {
+    "message": "åpen kildekode-prosjekt"
+  },
+  "unableToDetect": {
+    "message": "⚠ Kan ikke oppdage gjeldende nettsted"
+  },
+  "refreshAndTry": {
+    "message": "Vennligst oppdater siden og prøv igjen."
+  },
+  "needMoreSitesShort": {
+    "message": "Trenger flere nettsteder?"
+  },
+  "contactUsShort": {
+    "message": "Kontakt oss"
+  },
+  "contributeCodeShort": {
+    "message": "bidra med kode"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "For å bruke Sokuji, velg <strong>\"Sokuji Virtual Microphone\"</strong> i mikrofoninnstillingene dine."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "For å bruke Sokuji, vennligst velg <strong>\"Sokuji Virtual Microphone\"</strong> i mikrofoninnstillingene dine og <strong>deaktiver støyreduksjon</strong> for bedre ytelse."
+  },
+  "gotIt": {
+    "message": "Forstått"
+  },
+  "remindLater": {
+    "message": "Påminn senere"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "To use Sokuji, please select \"Sokuji Virtual Microphone\" in your microphone settings."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "To use Sokuji, please select <strong>\"Sokuji Virtual Microphone\"</strong> in your microphone settings and <strong>disable Noise Suppression</strong> in Discord's Voice settings for better performance."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "To use Sokuji in Slack Huddles, please <strong>start a Huddle</strong>, then select <strong>\"Sokuji Virtual Microphone\"</strong> in your Video and Mic settings, and <strong>disable Noise Suppression</strong> in Audio & Video preferences for better performance."
+  },
+  "showMoreSites": {
+    "message": "Vis $COUNT$ flere nettsteder",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Vis færre nettsteder"
+  }
+}

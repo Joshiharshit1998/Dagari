@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI-poháněný živý překlad řeči pro online schůzky"
+  },
+  "extensionDescription": {
+    "message": "AI-poháněný okamžitý překlad řeči pro všechny videoschůzky. Prolomte jazykové bariéry pomocí překladu hlasu v reálném čase."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Podporované stránky"
+  },
+  "openSokuji": {
+    "message": "Otevřít Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Obchod Chrome"
+  },
+  "edgeAddons": {
+    "message": "Doplňky Edge"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji je dostupné na $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Klikněte na \"Otevřít Sokuji\" níže pro spuštění překladu v reálném čase."
+  },
+  "quickStart": {
+    "message": "Rychlý start:"
+  },
+  "quickStartInstructions": {
+    "message": "Nakonfigurujte svůj API klíč (OpenAI nebo Gemini) → Vyberte \"Sokuji_Virtual_Mic\" jako mikrofon → Začněte mluvit!"
+  },
+  "notSupported": {
+    "message": "⚠ Nepodporováno na této stránce"
+  },
+  "currentlyOn": {
+    "message": "Aktuálně na $HOSTNAME$. Sokuji funguje na těchto platformách:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Potřebujete podporu pro více stránek?"
+  },
+  "contactUs": {
+    "message": "Kontaktujte nás na"
+  },
+  "contributeCode": {
+    "message": "přispějte do našeho"
+  },
+  "openSourceProject": {
+    "message": "open source projektu"
+  },
+  "unableToDetect": {
+    "message": "⚠ Nelze detekovat aktuální stránku"
+  },
+  "refreshAndTry": {
+    "message": "Prosím obnovte stránku a zkuste to znovu."
+  },
+  "needMoreSitesShort": {
+    "message": "Potřebujete více stránek?"
+  },
+  "contactUsShort": {
+    "message": "Kontakt"
+  },
+  "contributeCodeShort": {
+    "message": "přispět kódem"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Pro použití Sokuji vyberte <strong>\"Sokuji Virtual Microphone\"</strong> v nastavení mikrofonu."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Pro použití Sokuji prosím vyberte <strong>\"Sokuji Virtual Microphone\"</strong> v nastavení mikrofonu a <strong>vypněte redukci šumu</strong> pro lepší výkon."
+  },
+  "gotIt": {
+    "message": "Rozumím"
+  },
+  "remindLater": {
+    "message": "Připomenout později"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "To use Sokuji, please select \"Sokuji Virtual Microphone\" in your microphone settings."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "To use Sokuji, please select <strong>\"Sokuji Virtual Microphone\"</strong> in your microphone settings and <strong>disable Noise Suppression</strong> in Discord's Voice settings for better performance."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "To use Sokuji in Slack Huddles, please <strong>start a Huddle</strong>, then select <strong>\"Sokuji Virtual Microphone\"</strong> in your Video and Mic settings, and <strong>disable Noise Suppression</strong> in Audio & Video preferences for better performance."
+  },
+  "showMoreSites": {
+    "message": "Zobrazit dalších $COUNT$ stránek",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Zobrazit méně stránek"
+  }
+}

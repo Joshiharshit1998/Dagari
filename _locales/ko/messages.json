@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI 기반 실시간 음성 번역"
+  },
+  "extensionDescription": {
+    "message": "모든 화상 회의를 위한 AI 기반 즉석 음성 번역. 실시간 음성 번역으로 언어 장벽을 허물어보세요."
+  },
+  "popupTitle": {
+    "message": "Sokuji - 지원 사이트"
+  },
+  "openSokuji": {
+    "message": "Sokuji 열기"
+  },
+  "chromeWebStore": {
+    "message": "Chrome 웹 스토어"
+  },
+  "edgeAddons": {
+    "message": "Edge 추가 기능"
+  },
+  "sokujiAvailable": {
+    "message": "✓ $SITE_NAME$에서 Sokuji를 사용할 수 있습니다!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "실시간 번역을 시작하려면 아래 \"Sokuji 열기\"를 클릭하세요."
+  },
+  "quickStart": {
+    "message": "빠른 시작:"
+  },
+  "quickStartInstructions": {
+    "message": "API 키 설정 (OpenAI 또는 Gemini) → 마이크로 \"Sokuji_Virtual_Mic\" 선택 → 말하기 시작!"
+  },
+  "notSupported": {
+    "message": "⚠ 이 사이트에서는 지원되지 않습니다"
+  },
+  "currentlyOn": {
+    "message": "현재 $HOSTNAME$에 있습니다. Sokuji는 다음 플랫폼에서 작동합니다:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "더 많은 사이트 지원이 필요하신가요?"
+  },
+  "contactUs": {
+    "message": "다음으로 문의하세요"
+  },
+  "contributeCode": {
+    "message": "우리의"
+  },
+  "openSourceProject": {
+    "message": "오픈소스 프로젝트에 기여하기"
+  },
+  "unableToDetect": {
+    "message": "⚠ 현재 사이트를 감지할 수 없습니다"
+  },
+  "refreshAndTry": {
+    "message": "페이지를 새로고침하고 다시 시도해주세요."
+  },
+  "needMoreSitesShort": {
+    "message": "더 많은 사이트가 필요하신가요?"
+  },
+  "contactUsShort": {
+    "message": "문의하기"
+  },
+  "contributeCodeShort": {
+    "message": "코드 기여"
+  },
+  "gatherTownTitle": {
+    "message": "Gather Town용 Sokuji"
+  },
+  "gatherTownGuidance": {
+    "message": "Sokuji를 사용하려면 마이크 설정에서 <strong>\"Sokuji Virtual Microphone\"</strong>을 선택하세요."
+  },
+  "wherebyTitle": {
+    "message": "Whereby용 Sokuji"
+  },
+  "wherebyGuidance": {
+    "message": "Sokuji를 사용하려면 마이크 설정에서 <strong>\"Sokuji Virtual Microphone\"</strong>을 선택하고 더 나은 성능을 위해 <strong>노이즈 감소를 비활성화</strong>하세요."
+  },
+  "gotIt": {
+    "message": "알겠습니다"
+  },
+  "remindLater": {
+    "message": "나중에 알림"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Sokuji를 사용하려면 마이크 설정에서 \"Sokuji Virtual Microphone\"을 선택하세요."
+  },
+  "discordTitle": {
+    "message": "Discord용 Sokuji"
+  },
+  "discordGuidance": {
+    "message": "Sokuji를 사용하려면 마이크 설정에서 <strong>\"Sokuji Virtual Microphone\"</strong>을 선택하고, 더 나은 성능을 위해 Discord의 음성 설정에서 <strong>노이즈 억제를 비활성화</strong>하세요."
+  },
+  "slackTitle": {
+    "message": "Slack용 Sokuji"
+  },
+  "slackGuidance": {
+    "message": "Slack Huddles에서 Sokuji를 사용하려면 <strong>Huddle을 시작</strong>한 다음 비디오 및 마이크 설정에서 <strong>\"Sokuji Virtual Microphone\"</strong>을 선택하고 더 나은 성능을 위해 오디오 및 비디오 기본 설정에서 <strong>노이즈 억제를 비활성화</strong>해주세요."
+  },
+  "showMoreSites": {
+    "message": "$COUNT$개 사이트 더 보기",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "사이트 접기"
+  }
+}

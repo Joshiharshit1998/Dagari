@@ -1,0 +1,1 @@
+navigator.mediaDevices.getUserMedia({audio:!0}).then((e=>{console.info("[Sokuji] [Permission] 🎉 Microphone access granted"),e.getTracks().forEach((e=>e.stop()))})).catch((e=>{console.error("[Sokuji] [Permission] 🛑 Permission denied",e)}));

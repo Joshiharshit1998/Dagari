@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI-driven Live Talöversättning för Onlinemöten"
+  },
+  "extensionDescription": {
+    "message": "AI-driven omedelbar talöversättning för alla videomöten. Bryt språkbarriärer med realtidsröstöversättning."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Stödda Webbplatser"
+  },
+  "openSokuji": {
+    "message": "Öppna Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Chrome Webbshop"
+  },
+  "edgeAddons": {
+    "message": "Edge-tillägg"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji är tillgängligt på $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Klicka på \"Öppna Sokuji\" nedan för att starta realtidsöversättning."
+  },
+  "quickStart": {
+    "message": "Snabbstart:"
+  },
+  "quickStartInstructions": {
+    "message": "Konfigurera din API-nyckel (OpenAI eller Gemini) → Välj \"Sokuji_Virtual_Mic\" som mikrofon → Börja tala!"
+  },
+  "notSupported": {
+    "message": "⚠ Stöds inte på denna webbplats"
+  },
+  "currentlyOn": {
+    "message": "För närvarande på $HOSTNAME$. Sokuji fungerar på dessa plattformar:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Behöver du stöd för fler webbplatser?"
+  },
+  "contactUs": {
+    "message": "Kontakta oss på"
+  },
+  "contributeCode": {
+    "message": "bidra till vårt"
+  },
+  "openSourceProject": {
+    "message": "öppen källkodsprojekt"
+  },
+  "unableToDetect": {
+    "message": "⚠ Kan inte upptäcka nuvarande webbplats"
+  },
+  "refreshAndTry": {
+    "message": "Vänligen uppdatera sidan och försök igen."
+  },
+  "needMoreSitesShort": {
+    "message": "Behöver fler webbplatser?"
+  },
+  "contactUsShort": {
+    "message": "Kontakta oss"
+  },
+  "contributeCodeShort": {
+    "message": "bidra med kod"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "För att använda Sokuji, välj <strong>\"Sokuji Virtual Microphone\"</strong> i dina mikrofoninställningar."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "För att använda Sokuji, vänligen välj <strong>\"Sokuji Virtual Microphone\"</strong> i dina mikrofoninställningar och <strong>inaktivera brusreducering</strong> för bättre prestanda."
+  },
+  "gotIt": {
+    "message": "Förstått"
+  },
+  "remindLater": {
+    "message": "Påminn senare"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "För att använda Sokuji, välj \"Sokuji Virtual Microphone\" i dina mikrofoninställningar."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "För att använda Sokuji, välj <strong>\"Sokuji Virtual Microphone\"</strong> i dina mikrofoninställningar och <strong>inaktivera Brusreducering</strong> i Discords röstinställningar för bättre prestanda."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "För att använda Sokuji i Slack Huddles, vänligen <strong>starta en Huddle</strong>, välj sedan <strong>\"Sokuji Virtual Microphone\"</strong> i dina Video- och Mikrofoninställningar och <strong>inaktivera Brusreducering</strong> i Ljud- och Videoinställningar för bättre prestanda."
+  },
+  "showMoreSites": {
+    "message": "Visa $COUNT$ fler webbplatser",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Visa färre webbplatser"
+  }
+}

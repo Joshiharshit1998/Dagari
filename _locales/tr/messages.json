@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - Online Toplantılar için AI Destekli Canlı Konuşma Çevirisi"
+  },
+  "extensionDescription": {
+    "message": "Tüm video toplantıları için AI destekli anlık konuşma çevirisi. Gerçek zamanlı ses çevirisi ile dil engellerini aşın."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Desteklenen Siteler"
+  },
+  "openSokuji": {
+    "message": "Sokuji'yi Aç"
+  },
+  "chromeWebStore": {
+    "message": "Chrome Web Mağazası"
+  },
+  "edgeAddons": {
+    "message": "Edge Eklentileri"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji $SITE_NAME$ üzerinde kullanılabilir!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Gerçek zamanlı çeviriyi başlatmak için aşağıdaki \"Sokuji'yi Aç\" düğmesine tıklayın."
+  },
+  "quickStart": {
+    "message": "Hızlı Başlangıç:"
+  },
+  "quickStartInstructions": {
+    "message": "API anahtarınızı yapılandırın (OpenAI veya Gemini) → Mikrofon olarak \"Sokuji_Virtual_Mic\"i seçin → Konuşmaya başlayın!"
+  },
+  "notSupported": {
+    "message": "⚠ Bu sitede desteklenmiyor"
+  },
+  "currentlyOn": {
+    "message": "Şu anda $HOSTNAME$ üzerinde. Sokuji bu platformlarda çalışır:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Daha fazla site desteğine ihtiyacınız var mı?"
+  },
+  "contactUs": {
+    "message": "Bizimle iletişime geçin:"
+  },
+  "contributeCode": {
+    "message": "açık kaynak"
+  },
+  "openSourceProject": {
+    "message": "projemize katkıda bulunun"
+  },
+  "unableToDetect": {
+    "message": "⚠ Mevcut site tespit edilemiyor"
+  },
+  "refreshAndTry": {
+    "message": "Lütfen sayfayı yenileyin ve tekrar deneyin."
+  },
+  "needMoreSitesShort": {
+    "message": "Daha fazla site gerekli mi?"
+  },
+  "contactUsShort": {
+    "message": "İletişim"
+  },
+  "contributeCodeShort": {
+    "message": "kod katkısı"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Sokuji'yi kullanmak için mikrofon ayarlarınızda <strong>\"Sokuji Virtual Microphone\"</strong> seçin."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Sokuji'yi kullanmak için mikrofon ayarlarınızda <strong>\"Sokuji Virtual Microphone\"</strong> seçin ve daha iyi performans için <strong>gürültü azaltmayı devre dışı bırakın</strong>."
+  },
+  "gotIt": {
+    "message": "Anladım"
+  },
+  "remindLater": {
+    "message": "Daha sonra hatırlat"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Sokuji'yi kullanmak için mikrofon ayarlarınızda \"Sokuji Virtual Microphone\"u seçin."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "Sokuji'yi kullanmak için mikrofon ayarlarınızda <strong>\"Sokuji Virtual Microphone\"</strong>u seçin ve daha iyi performans için Discord'un ses ayarlarında <strong>Gürültü Bastırma'yı devre dışı bırakın</strong>."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "Slack Huddles'da Sokuji kullanmak için lütfen <strong>bir Huddle başlatın</strong>, ardından Video ve Mikrofon ayarlarınızda <strong>\"Sokuji Virtual Microphone\"</strong> seçin ve daha iyi performans için Audio ve Video tercihlerinde <strong>Gürültü Bastırma'yı devre dışı bırakın</strong>."
+  },
+  "showMoreSites": {
+    "message": "$COUNT$ site daha göster",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Daha az site göster"
+  }
+}

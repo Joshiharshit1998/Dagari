@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI-aangedreven Live Spraakvertaling voor Online Vergaderingen"
+  },
+  "extensionDescription": {
+    "message": "AI-aangedreven directe spraakvertaling voor alle videovergaderingen. Doorbreek taalbarrières met realtime stemvertaling."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Ondersteunde Sites"
+  },
+  "openSokuji": {
+    "message": "Sokuji Openen"
+  },
+  "chromeWebStore": {
+    "message": "Chrome Web Store"
+  },
+  "edgeAddons": {
+    "message": "Edge-invoegtoepassingen"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji is beschikbaar op $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Klik op \"Sokuji Openen\" hieronder om realtime vertaling te starten."
+  },
+  "quickStart": {
+    "message": "Snelle Start:"
+  },
+  "quickStartInstructions": {
+    "message": "Configureer uw API-sleutel (OpenAI of Gemini) → Selecteer \"Sokuji_Virtual_Mic\" als microfoon → Begin met spreken!"
+  },
+  "notSupported": {
+    "message": "⚠ Niet ondersteund op deze site"
+  },
+  "currentlyOn": {
+    "message": "Momenteel op $HOSTNAME$. Sokuji werkt op deze platforms:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Ondersteuning nodig voor meer sites?"
+  },
+  "contactUs": {
+    "message": "Neem contact met ons op via"
+  },
+  "contributeCode": {
+    "message": "draag bij aan ons"
+  },
+  "openSourceProject": {
+    "message": "open source project"
+  },
+  "unableToDetect": {
+    "message": "⚠ Kan huidige site niet detecteren"
+  },
+  "refreshAndTry": {
+    "message": "Ververs de pagina en probeer het opnieuw."
+  },
+  "needMoreSitesShort": {
+    "message": "Meer sites nodig?"
+  },
+  "contactUsShort": {
+    "message": "Contact opnemen"
+  },
+  "contributeCodeShort": {
+    "message": "code bijdragen"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji voor Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Om Sokuji te gebruiken, selecteer <strong>\"Sokuji Virtual Microphone\"</strong> in uw microfooninstellingen."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji voor Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Om Sokuji te gebruiken, selecteer <strong>\"Sokuji Virtual Microphone\"</strong> in de microfooninstellingen en <strong>schakel ruisonderdrukking uit</strong> voor betere prestaties."
+  },
+  "gotIt": {
+    "message": "Begrepen"
+  },
+  "remindLater": {
+    "message": "Later herinneren"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Om Sokuji te gebruiken, selecteer \"Sokuji Virtual Microphone\" in uw microfooninstellingen."
+  },
+  "discordTitle": {
+    "message": "Sokuji voor Discord"
+  },
+  "discordGuidance": {
+    "message": "Om Sokuji te gebruiken, selecteer <strong>\"Sokuji Virtual Microphone\"</strong> in uw microfooninstellingen en <strong>schakel Ruisonderdrukking uit</strong> in de Discord-spraakinstellingen voor betere prestaties."
+  },
+  "slackTitle": {
+    "message": "Sokuji voor Slack"
+  },
+  "slackGuidance": {
+    "message": "Om Sokuji in Slack Huddles te gebruiken, <strong>start een Huddle</strong>, selecteer dan <strong>\"Sokuji Virtual Microphone\"</strong> in je video- en microfooninstellingen, en <strong>schakel ruisonderdrukking uit</strong> in audio- en videovoorkeuren voor betere prestaties."
+  },
+  "showMoreSites": {
+    "message": "$COUNT$ meer sites tonen",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Minder sites tonen"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - ترجمة الكلام بالذكاء الاصطناعي"
+  },
+  "extensionDescription": {
+    "message": "ترجمة فورية للكلام بالذكاء الاصطناعي لجميع اجتماعات الفيديو. كسر حواجز اللغة مع الترجمة الصوتية في الوقت الفعلي."
+  },
+  "popupTitle": {
+    "message": "Sokuji - المواقع المدعومة"
+  },
+  "openSokuji": {
+    "message": "فتح Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "متجر Chrome الإلكتروني"
+  },
+  "edgeAddons": {
+    "message": "إضافات Edge"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji متاح على $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "انقر على \"فتح Sokuji\" أدناه لبدء الترجمة في الوقت الفعلي."
+  },
+  "quickStart": {
+    "message": "البدء السريع:"
+  },
+  "quickStartInstructions": {
+    "message": "قم بتكوين مفتاح API الخاص بك (OpenAI أو Gemini) ← حدد \"Sokuji_Virtual_Mic\" كميكروفون ← ابدأ بالتحدث!"
+  },
+  "notSupported": {
+    "message": "⚠ غير مدعوم على هذا الموقع"
+  },
+  "currentlyOn": {
+    "message": "حالياً على $HOSTNAME$. Sokuji يعمل على هذه المنصات:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "تحتاج دعم لمواقع أكثر؟"
+  },
+  "contactUs": {
+    "message": "اتصل بنا على"
+  },
+  "contributeCode": {
+    "message": "ساهم في"
+  },
+  "openSourceProject": {
+    "message": "مشروعنا مفتوح المصدر"
+  },
+  "unableToDetect": {
+    "message": "⚠ غير قادر على اكتشاف الموقع الحالي"
+  },
+  "refreshAndTry": {
+    "message": "يرجى تحديث الصفحة والمحاولة مرة أخرى."
+  },
+  "needMoreSitesShort": {
+    "message": "تحتاج مواقع أكثر؟"
+  },
+  "contactUsShort": {
+    "message": "اتصل بنا"
+  },
+  "contributeCodeShort": {
+    "message": "ساهم بالكود"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji لـ Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "لاستخدام Sokuji، يرجى تحديد <strong>\"Sokuji Virtual Microphone\"</strong> في إعدادات الميكروفون الخاص بك."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji لـ Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "لاستخدام Sokuji، يرجى تحديد <strong>\"Sokuji Virtual Microphone\"</strong> في إعدادات الميكروفون و<strong>إلغاء تنشيط تقليل الضوضاء</strong> للحصول على أداء أفضل."
+  },
+  "gotIt": {
+    "message": "فهمت"
+  },
+  "remindLater": {
+    "message": "ذكرني لاحقاً"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "لاستخدام Sokuji، يرجى تحديد \"Sokuji Virtual Microphone\" في إعدادات الميكروفون."
+  },
+  "discordTitle": {
+    "message": "Sokuji لـ Discord"
+  },
+  "discordGuidance": {
+    "message": "لاستخدام Sokuji، يرجى تحديد <strong>\"Sokuji Virtual Microphone\"</strong> في إعدادات الميكروفون و<strong>إلغاء تفعيل قمع الضوضاء</strong> في إعدادات الصوت في Discord للحصول على أداء أفضل."
+  },
+  "slackTitle": {
+    "message": "Sokuji لـ Slack"
+  },
+  "slackGuidance": {
+    "message": "لاستخدام Sokuji في Slack Huddles، يرجى <strong>بدء Huddle</strong>، ثم حدد <strong>\"Sokuji Virtual Microphone\"</strong> في إعدادات الفيديو والميكروفون، و<strong>قم بإلغاء تنشيط كبت الضوضاء</strong> في تفضيلات الصوت والفيديو للحصول على أداء أفضل."
+  },
+  "showMoreSites": {
+    "message": "عرض $COUNT$ مواقع أخرى",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "عرض مواقع أقل"
+  }
+}

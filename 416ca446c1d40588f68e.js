@@ -1,0 +1,1 @@
+class PalabraPCMProcessor extends AudioWorkletProcessor{process(r){const s=r[0][0];if(!s)return!0;const e=new Int16Array(s.length);for(let r=0;r<s.length;r++)e[r]=Math.max(-32768,Math.min(32767,32767*s[r]));return this.port.postMessage(e,[e.buffer]),!0}}registerProcessor("palabra-pcm-processor",PalabraPCMProcessor);

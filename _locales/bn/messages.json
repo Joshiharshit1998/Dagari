@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI স্পিচ ট্রান্সলেশন"
+  },
+  "extensionDescription": {
+    "message": "সমস্ত ভিডিও মিটিংয়ের জন্য AI-চালিত তাৎক্ষণিক স্পিচ ট্রান্সলেশন। রিয়েল-টাইম ভয়েস ট্রান্সলেশনের মাধ্যমে ভাষার বাধা ভেঙে ফেলুন।"
+  },
+  "popupTitle": {
+    "message": "Sokuji - সমর্থিত ওয়েবসাইট"
+  },
+  "openSokuji": {
+    "message": "Sokuji খুলুন"
+  },
+  "chromeWebStore": {
+    "message": "Chrome ওয়েব স্টোর"
+  },
+  "edgeAddons": {
+    "message": "Edge অ্যাড-অনস"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji $SITE_NAME$-এ উপলব্ধ!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "রিয়েল-টাইম ট্রান্সলেশন শুরু করতে নিচের \"Sokuji খুলুন\" এ ক্লিক করুন।"
+  },
+  "quickStart": {
+    "message": "দ্রুত শুরু:"
+  },
+  "quickStartInstructions": {
+    "message": "আপনার API কী কনফিগার করুন (OpenAI বা Gemini) ← মাইক্রোফোন হিসেবে \"Sokuji_Virtual_Mic\" নির্বাচন করুন ← কথা বলা শুরু করুন!"
+  },
+  "notSupported": {
+    "message": "⚠ এই ওয়েবসাইটে সমর্থিত নয়"
+  },
+  "currentlyOn": {
+    "message": "বর্তমানে $HOSTNAME$-এ। Sokuji এই প্ল্যাটফর্মগুলিতে কাজ করে:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "আরও ওয়েবসাইটের জন্য সহায়তা প্রয়োজন?"
+  },
+  "contactUs": {
+    "message": "আমাদের সাথে যোগাযোগ করুন"
+  },
+  "contributeCode": {
+    "message": "অবদান রাখুন"
+  },
+  "openSourceProject": {
+    "message": "আমাদের ওপেন সোর্স প্রকল্পে"
+  },
+  "unableToDetect": {
+    "message": "⚠ বর্তমান ওয়েবসাইট সনাক্ত করতে অক্ষম"
+  },
+  "refreshAndTry": {
+    "message": "অনুগ্রহ করে পৃষ্ঠা রিফ্রেশ করুন এবং আবার চেষ্টা করুন।"
+  },
+  "needMoreSitesShort": {
+    "message": "আরও সাইট প্রয়োজন?"
+  },
+  "contactUsShort": {
+    "message": "যোগাযোগ করুন"
+  },
+  "contributeCodeShort": {
+    "message": "কোড অবদান"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Sokuji ব্যবহার করতে, আপনার মাইক্রোফোন সেটিংসে <strong>\"Sokuji Virtual Microphone\"</strong> নির্বাচন করুন।"
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Sokuji ব্যবহার করতে, অনুগ্রহ করে আপনার মাইক্রোফোন সেটিংসে <strong>\"Sokuji Virtual Microphone\"</strong> নির্বাচন করুন এবং আরও ভাল কর্মক্ষমতার জন্য <strong>শব্দ হ্রাস নিষ্ক্রিয় করুন</strong>।"
+  },
+  "gotIt": {
+    "message": "বুঝেছি"
+  },
+  "remindLater": {
+    "message": "পরে মনে করিয়ে দিন"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Sokuji ব্যবহার করতে, আপনার মাইক্রোফোন সেটিংসে \"Sokuji Virtual Microphone\" নির্বাচন করুন।"
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "Sokuji ব্যবহার করতে, আপনার মাইক্রোফোন সেটিংসে <strong>\"Sokuji Virtual Microphone\"</strong> নির্বাচন করুন এবং ভাল পারফরম্যান্সের জন্য Discord এর ভয়েস সেটিংসে <strong>Noise Suppression নিষ্ক্রিয় করুন</strong>।"
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "To use Sokuji in Slack Huddles, please <strong>start a Huddle</strong>, then select <strong>\"Sokuji Virtual Microphone\"</strong> in your Video and Mic settings, and <strong>disable Noise Suppression</strong> in Audio & Video preferences for better performance."
+  },
+  "showMoreSites": {
+    "message": "আরও $COUNT$টি সাইট দেখান",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "কম সাইট দেখান"
+  }
+}

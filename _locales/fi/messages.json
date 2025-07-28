@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Sokuji - AI-käyttöinen Live-puheenkäännös verkkokokouksiin"
+  },
+  "extensionDescription": {
+    "message": "AI-käyttöinen välitön puheenkäännös kaikille videokokouksille. Murra kieliesteet reaaliaikaisella äänenkäännöksellä."
+  },
+  "popupTitle": {
+    "message": "Sokuji - Tuetut sivustot"
+  },
+  "openSokuji": {
+    "message": "Avaa Sokuji"
+  },
+  "chromeWebStore": {
+    "message": "Chrome-verkkokauppa"
+  },
+  "edgeAddons": {
+    "message": "Edge-lisäosat"
+  },
+  "sokujiAvailable": {
+    "message": "✓ Sokuji on saatavilla sivustolla $SITE_NAME$!",
+    "placeholders": {
+      "site_name": {
+        "content": "$1",
+        "example": "Google Meet"
+      }
+    }
+  },
+  "clickToStart": {
+    "message": "Napsauta \"Avaa Sokuji\" alla aloittaaksesi reaaliaikaisen käännöksen."
+  },
+  "quickStart": {
+    "message": "Pika-aloitus:"
+  },
+  "quickStartInstructions": {
+    "message": "Määritä API-avaimesi (OpenAI tai Gemini) → Valitse \"Sokuji_Virtual_Mic\" mikrofoniksi → Aloita puhuminen!"
+  },
+  "notSupported": {
+    "message": "⚠ Ei tuettu tällä sivustolla"
+  },
+  "currentlyOn": {
+    "message": "Tällä hetkellä sivustolla $HOSTNAME$. Sokuji toimii näillä alustoilla:",
+    "placeholders": {
+      "hostname": {
+        "content": "$1",
+        "example": "example.com"
+      }
+    }
+  },
+  "needMoreSites": {
+    "message": "Tarvitsetko tukea useammille sivustoille?"
+  },
+  "contactUs": {
+    "message": "Ota meihin yhteyttä osoitteessa"
+  },
+  "contributeCode": {
+    "message": "osallistu"
+  },
+  "openSourceProject": {
+    "message": "avoimen lähdekoodin projektiimme"
+  },
+  "unableToDetect": {
+    "message": "⚠ Nykyistä sivustoa ei voida tunnistaa"
+  },
+  "refreshAndTry": {
+    "message": "Päivitä sivu ja yritä uudelleen."
+  },
+  "needMoreSitesShort": {
+    "message": "Tarvitsetko lisää sivustoja?"
+  },
+  "contactUsShort": {
+    "message": "Ota yhteyttä"
+  },
+  "contributeCodeShort": {
+    "message": "osallistu koodiin"
+  },
+  "gatherTownTitle": {
+    "message": "Sokuji for Gather Town"
+  },
+  "gatherTownGuidance": {
+    "message": "Käyttääksesi Sokujia, valitse <strong>\"Sokuji Virtual Microphone\"</strong> mikrofoni-asetuksistasi."
+  },
+  "wherebyTitle": {
+    "message": "Sokuji for Whereby"
+  },
+  "wherebyGuidance": {
+    "message": "Käyttääksesi Sokuji:a, valitse <strong>\"Sokuji Virtual Microphone\"</strong> mikrofoniasetuksistasi ja <strong>poista melunvaimennus käytöstä</strong> parempaa suorituskykyä varten."
+  },
+  "gotIt": {
+    "message": "Selvä"
+  },
+  "remindLater": {
+    "message": "Muistuta myöhemmin"
+  },
+  "defaultTitle": {
+    "message": "Sokuji"
+  },
+  "defaultGuidance": {
+    "message": "Käyttääksesi Sokuji:ta, valitse \"Sokuji Virtual Microphone\" mikrofonin asetuksista."
+  },
+  "discordTitle": {
+    "message": "Sokuji for Discord"
+  },
+  "discordGuidance": {
+    "message": "Käyttääksesi Sokuji:ta, valitse <strong>\"Sokuji Virtual Microphone\"</strong> mikrofonin asetuksista ja <strong>poista Kohinanvaimennus käytöstä</strong> Discordin ääniasetuksista parempaa suorituskykyä varten."
+  },
+  "slackTitle": {
+    "message": "Sokuji for Slack"
+  },
+  "slackGuidance": {
+    "message": "Käyttääksesi Sokuji:ta Slack Huddleissa, <strong>aloita Huddle</strong>, valitse sitten <strong>\"Sokuji Virtual Microphone\"</strong> Video- ja Mikrofoni-asetuksistasi ja <strong>poista Kohinanvaimennus käytöstä</strong> Ääni- ja Video-asetuksissa parempaa suorituskykyä varten."
+  },
+  "showMoreSites": {
+    "message": "Näytä $COUNT$ sivustoa lisää",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "showLessSites": {
+    "message": "Näytä vähemmän sivustoja"
+  }
+}
